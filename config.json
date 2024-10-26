@@ -2,5 +2,5 @@
     "TOKEN": os.environ.get("TOKEN", ""),
     "ID": os.environ.get("ID", ""),
     "HASH": os.environ.get("HASH", ""),
-    "STRING": os.environ.get("HASH", "")
+    "STRING": os.environ.get("STRING", "")
 }
